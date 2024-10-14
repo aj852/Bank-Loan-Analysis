@@ -30,7 +30,9 @@ Loan Status Grid View
 - Home Ownership Analysis (TreeMap): For a hierarchical view of how homeownership impacts loan applications and disbursements.
 
 ## GRID
-- Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+- A comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data is needed. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+
+![Bank Loan Analysis](Bank Loan Report_Summary.png)
 
 
 
