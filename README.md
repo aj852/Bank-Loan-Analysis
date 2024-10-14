@@ -1,10 +1,10 @@
 # Bank-Loan-Analysis
 ## Key Performance Indicators (KPIs) Requirements:
-- Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
+- Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, monitoring the Month-to-Date (MTD) Loan Applications and tracking changes Month-over-Month (MoM) is essential.
 - Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
 - Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
 - Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
-- Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
+- Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, and MTD, and track Month-over-Month (MoM) fluctuations.
   
 ## Good Loan v Bad Loan KPI’s
 Good Loan:
@@ -32,7 +32,11 @@ Loan Status Grid View
 ## GRID
 - A comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data is needed. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
-![Bank Loan Analysis](Bank Loan Report_Summary.png)
+See Full Dashboard Here[Power BI File](https://app.powerbi.com/links/bd1WCLDpWb?ctid=fcf88a03-5fad-4fee-a29b-004f34d4e9d8&pbi_source=linkShare&bookmarkGuid=54226666-1818-432e-bf97-163db46412b7)
+
+![Bank Loan Analysis](https://github.com/aj852/Bank-Loan-Analysis/blob/08cf921dcc532b3124565eab48b835030940b896/Bank%20Loan%20Report_Summary.png)
+![Bank Loan Analysis](https://github.com/aj852/Bank-Loan-Analysis/blob/08cf921dcc532b3124565eab48b835030940b896/Bank%20Loan%20Report_Overview.png)
+![Bank Loan Analysis](https://github.com/aj852/Bank-Loan-Analysis/blob/08cf921dcc532b3124565eab48b835030940b896/Bank%20Loan%20Report_Details.png)
 
 
 
